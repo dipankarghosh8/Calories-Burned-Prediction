@@ -1,5 +1,4 @@
-# Calories-Burned-Prediction
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tbt5FoF2zY7tLT7b6IGndS676PNcCjEz)
+# Calories-Burned-Prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tbt5FoF2zY7tLT7b6IGndS676PNcCjEz)
 
 With this model you will be able to evaluate how many calories you would burn during a specific duration.It takes some parameters such as your `age` , `gender` , `exercise duration` etc. and then it evaluates the amount of calories you would burn.In addition, you will be able to observe similar results and general informations(according to the parameter values that you would enter into application).  
 
