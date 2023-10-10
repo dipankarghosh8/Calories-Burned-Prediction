@@ -1,4 +1,6 @@
 # Calories-Burned-Prediction
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tbt5FoF2zY7tLT7b6IGndS676PNcCjEz)
+
 
 ![image](https://user-images.githubusercontent.com/69152112/210569997-d595252d-ea28-4f3c-935d-3141407cf8c7.png)
 
