@@ -4,3 +4,11 @@ With this model you will be able to evaluate how many calories you would burn du
 This project is made up of a simple machine learning algorithm(`RandomForestRegressor`) from `sklearn` library.Various concepts implemented in this project such as `EDA` , `[Pearson] Correlation` , `Learning Curve` etc. which is available in Jupyter/Colab notebook.
 
 ![image](https://user-images.githubusercontent.com/69152112/210569997-d595252d-ea28-4f3c-935d-3141407cf8c7.png)
+
+
+
+calories.head()
+User_ID	Calories
+
+exercise_df
+User_ID	Gender	Age	Height	Weight	Duration	Heart_Rate	Body_Temp	Calories
